@@ -572,7 +572,6 @@ img {
   background-color: #e7e9fc;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
-  display: block;
   transition: background-color var(--transition), border var(--transition);
 }
 
