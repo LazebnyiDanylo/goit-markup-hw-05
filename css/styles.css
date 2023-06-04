@@ -568,7 +568,7 @@ img {
   height: 24px;
   padding: 0;
   cursor: pointer;
-  color:var(--second-background-color)
+  color: var(--second-background-color);
   background-color: #e7e9fc;
   border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
@@ -584,7 +584,7 @@ img {
 .modal-close:focus {
   background-color: var(--hover-color);
   border: none;
-  color:var(--first-background-color);
+  color: var(--first-background-color);
 }
 
 .is-hidden {
